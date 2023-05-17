@@ -31,12 +31,12 @@
             "matches": [
                 "*://*.sparxmaths.uk/student/*"
             ],
-            "js": ["console.js"]
+            "js": ["contentScript.js"]
         }
     ],
 
     "web_accessible_resources": [{
-        "resources": ["inject.js"],
+        "resources": ["inject.js","console.js"],
         "matches": ["<all_urls>"]
     }]
 }
