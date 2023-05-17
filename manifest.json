@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Sparxmaths Solver",
     "version": "1.4",
-    "description": "Stores bookwork codes and has colour themes",
+    "description": "Automatically Stores Bookwork Codes and Highlights the Correct one",
 
     "host_permissions": [
         "*://*.sparxmaths.uk/student/*"
@@ -31,7 +31,7 @@
             "matches": [
                 "*://*.sparxmaths.uk/student/*"
             ],
-            "js": ["contentScript.js"]
+            "js": ["console.js"]
         }
     ],
 
