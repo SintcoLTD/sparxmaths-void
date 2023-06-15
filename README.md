@@ -2,7 +2,8 @@
 
 Welcome to **Sintco Sparxmaths Solver Void Edition**, a Free browser extension designed to assist you with your sparx maths homework. Before using the extension, please read the full **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md) before using the program.
 
-
+This Version of the extension does **NOT** include colour themes. If you would like the original with colour themes, Goto [Sintco Sparxmaths Solver](https://github.com/SintcoLTD/sparxmaths).
+ 
 
 ## Table of Contents
 
