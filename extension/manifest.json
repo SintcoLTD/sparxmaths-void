@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Sintco Sparxmaths Solver",
-    "version": "1.4.2",
-    "description": "Stores bookwork codes and has colour themes",
+    "name": "Sintco Sparxmaths Solver Void Edition",
+    "version": "1.5",
+    "description": "Stores bookwork codes",
 
     "host_permissions": [
         "*://*.sparxmaths.uk/student/*"
@@ -16,7 +16,7 @@
         "default_icon": {
             "512": "logo.png"
         },
-        "default_title": "Sintco Sparxmaths Solver",
+        "default_title": "Sintco Sparxmaths Solver (VOID)",
         "default_popup": "popup.html"
     },
 
