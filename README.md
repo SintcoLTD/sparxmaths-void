@@ -42,7 +42,7 @@ This Requires **No** downloading or installing, Everthing is online.
 <p align="center">
   <img width="70%" src="https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/bookwork-code.png">
 </p>
-
+I know this one has colour themes, it will be updated soon.
 
 ## Installation
 
