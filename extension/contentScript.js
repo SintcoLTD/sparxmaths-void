@@ -1,10 +1,10 @@
 // START FILE CHECK FOR EXTENSION ENABLEMENT
-fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/notifications/1.4/switch.txt')
+fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/notifications/1.5/switch.txt')
   .then(response => response.text())
   .then(text => {
     if (text.includes('CHROME EXTENSION ENABLE')) {
       // START FILE CHECK FOR NOTIFICATION
-      fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/notifications/1.4/notification.txt')
+      fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/notifications/1.5/notification.txt')
         .then(response => response.text())
         .then(text => {
           // If notification.txt has any content, display an alert
@@ -26,7 +26,7 @@ fetch('https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/spa
     } else {
       const switchFileContents = `The contents of switch.txt are:\n\n${text}`;
       alert(`Chrome extension is not enabled, script will not continue.\n\n${switchFileContents}`);
-      throw new Error('Chrome extension is not enabled');
+      throw new Error('Chrome extension is Disabled');
     }
   })
   .catch(error => console.log(error));

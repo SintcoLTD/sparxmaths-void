@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Sparxmaths Solver",
-    "version": "1.4",
-    "description": "Automatically Stores Bookwork Codes and Highlights the Correct one",
+    "name": "Sintco Sparxmaths Solver",
+    "version": "1.4.2",
+    "description": "Stores bookwork codes and has colour themes",
 
     "host_permissions": [
         "*://*.sparxmaths.uk/student/*"
@@ -14,9 +14,9 @@
 
     "action": {
         "default_icon": {
-            "128": "logo.png"
+            "512": "logo.png"
         },
-        "default_title": "Sparxmaths Solver",
+        "default_title": "Sintco Sparxmaths Solver",
         "default_popup": "popup.html"
     },
 
@@ -36,7 +36,7 @@
     ],
 
     "web_accessible_resources": [{
-        "resources": ["inject.js","console.js"],
+        "resources": ["inject.js"],
         "matches": ["<all_urls>"]
     }]
 }

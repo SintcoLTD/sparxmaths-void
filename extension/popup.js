@@ -33,7 +33,7 @@ downloadButton.addEventListener('click', function() {
         const url = URL.createObjectURL(blob);
         chrome.downloads.download({
             url: url,
-            filename: "Sparx Codes.txt"
+            filename: "SparxCodes.txt"
         });
     })
 });
