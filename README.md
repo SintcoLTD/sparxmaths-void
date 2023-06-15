@@ -1,6 +1,6 @@
-<h1 align="center">Sintco Sparxmaths Solver</h1>
+<h1 align="center">Sintco Sparxmaths Solver (VOID)</h1>
 
-Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to assist you with your sparx maths homework. Before using the extension, please read the full **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md) before using the program.
+Welcome to **Sintco Sparxmaths Solver Void Edition**, a Free browser extension designed to assist you with your sparx maths homework. Before using the extension, please read the full **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md) before using the program.
 
 
 
@@ -9,7 +9,6 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 - [Features](#-features)
 - [Autosolve](#-autosolve)
 - [Installation](#installation)
-- [Colour Themes](#-colour-themes)
 - [Statistics](#statistics)
 - [Future Goals](#goals)
 - [Feedback](#-feedback)
@@ -31,7 +30,6 @@ This Requires **No** downloading or installing, Everthing is online.
 
 ## ✨ Features
 
-- **9** different **color themes**
 - **Stores answers** (so you don't need to write them down)
 - **Automatically** highlights the **correct** bookwork check answer
 - **Automatically** selects the next task when pressing **Enter**
@@ -69,25 +67,10 @@ This script fetches the latest JavaScript code from GitHub and dynamically injec
 
 **(indev) is referring to "In Development"*
 
-
-## 🖌 Colour Themes
-
-Sintco Sparxmaths Solver offers 9 different colour themes to customize the look of the extension and make it more visually appealing. Below is a preview of some of the available themes:
-
-|    Theme     |                                    Preview                                    |
-| :----------: | :---------------------------------------------------------------------------: |
-|   `stone`    |  ![stone](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme1.png)  |
-|  `boulder`   | ![boulder](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme2.png) |
-|   `angel`    |  ![angel](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/images/theme3.png)  |
-
-To see a list of all available themes and how to switch between them, check out the [Themes](docs/themes.md) documentation.
-
-With these color themes, you can personalize your experience using the extension to make it easier on the eyes and more enjoyable to use.
-
 ## Statistics
 
-[![Views Today/Total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSintcoLTD%2Fsparxmaths&count_bg=%2356F1F9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](/)
-![Star Counter](https://img.shields.io/github/stars/SintcoLTD/sparxmaths.svg?style=social)
+[![Views Today/Total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSintcoLTD%2Fsparxmaths-void&count_bg=%2356F1F9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](/)
+![Star Counter](https://img.shields.io/github/stars/SintcoLTD/sparxmaths-void.svg?style=social)
 
 Statistics starting from: 04/06/2023
 ## Goals
@@ -115,7 +98,7 @@ We welcome all kinds of feedback! Please submit an issue if you:
 - have any **suggestions for improvements**
 - would like to see **new features** added
 
-You can open a [Github Issue here](https://github.com/SintcoLTD/sparxmaths/issues/new)
+You can open a [Github Issue here](https://github.com/SintcoLTD/sparxmaths-void/issues/new)
 
 
 ## License
